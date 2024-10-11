@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhai+2:wght@400..800&family=Matemasie&family=Montserrat:ital,wght@0,100..900;1,100..900&family=New+Amsterdam&display=swap');
+.flex-all-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
