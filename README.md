@@ -1,0 +1,2 @@
+E-Commerce Homepage Project :
+This project is a simple, responsive e-commerce landing page. It features a navigation bar with a search function, options for login, cart, and seller registration, as well as a dropdown menu for additional services. The main section displays product categories with an image slider and cards showcasing electronic items. The page is styled to be clean and user-friendly with hover effects on the product cards.
